@@ -44,4 +44,4 @@ jobs:
             git clone https://github.com/Ugbe/hng12-stage2-fastapi-book-project.git
             cd hng12-stage2-fastapi-book-project/
             git pull
-            docker-compose up -d --build
+            sudo docker-compose up -d --build
